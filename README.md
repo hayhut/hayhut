@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hayhut
 - 👀 I’m interested in Verilog, C/++, and Python.
-- 🌱 I’m currently learning ... Python, VHDL
+- 🌱 I’m currently learning. Everyday, ideally.
 
 <!---
 hayhut/hayhut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
